@@ -2,6 +2,11 @@
 
 This repository contains a tutorial on how to create an interactive map of Mexico City's metro system using Python, GeoPandas, and Folium. The map includes metro stations and 15-minute walking isochrones for each station.
 
+## Google Colab Notebook
+
+You can run this tutorial directly in your browser using Google Colab. Click the badge below to open the notebook:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CX79GTt6zK9dgm5pa2LHt3lf9vwFO26h?usp=sharing)
 
 ## Prerequisites
 
