@@ -1,2 +1,0 @@
-# isocronasmexicocity
-Creacion de isocronas 
